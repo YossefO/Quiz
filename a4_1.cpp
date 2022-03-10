@@ -21,5 +21,6 @@ int main() {
         cout<<"Wow are you old"<<"\n";
     }
     cout<<"Thanks"<<" "<<name;
+    cout<<"Al slam alykm";
     return 0;
 }
